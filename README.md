@@ -15,3 +15,7 @@ Bab ini membahas desain eksperimen sebagai fondasi statistik untuk mengonfirmasi
 Bab 4: Regresi dan Prediksi (Regression and Prediction)
 
 Bab ini membahas inti dari hubungan antara statistik dan data science, yaitu prediksi variabel target berdasarkan nilai variabel prediktor. Fokus utamanya adalah memahami bagaimana model regresi bekerja, cara mengukur kinerjanya, dan teknik untuk menangani data yang kompleks.
+
+**Nama: Fidela Risyunira 
+| NIM: 101032300001
+| Class: TK-46-GAB**
